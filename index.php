@@ -4,4 +4,12 @@ Blog: https://StefanoPicozzi.blog
 GitHub: https://github.com/StefanoPicozzi/cotd.git
 Date: 2016
 -->
-Testing 1 2 3 4
+
+<?php
+
+session_start();
+include('include/selector.php');
+
+header( 'Location: item.php' );
+
+?>
