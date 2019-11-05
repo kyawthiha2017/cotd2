@@ -12,9 +12,9 @@ function getUserIpAddr(){
     return $ip;
 }
 echo 'User Real IP - '.getUserIpAddr();
-echo '<br>'
-echo 'cat'
-echo '<br>'
+echo '<br>';
+echo 'cat';
+echo '<br>';
 
 echo gethostname();
 ?>
