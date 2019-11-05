@@ -20,7 +20,7 @@ function getUserIpAddr(){
 }
 
 echo 'User Real IP - '.getUserIpAddr();
-
+echo gethostname();
 
 
 ?>
