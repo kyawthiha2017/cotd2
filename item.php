@@ -13,7 +13,7 @@ function getUserIpAddr(){
 }
 echo 'User Real IP - '.getUserIpAddr();
 echo '<br>';
-echo 'cat';
+echo 'cats';
 echo '<br>';
 
 echo gethostname();
