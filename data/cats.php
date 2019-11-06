@@ -12,17 +12,17 @@ Date: 2016
 
 $_SESSION['item'] = array();
 
-$_SESSION['item'][0]['name'] = 'Singapore - adelaide II';
+$_SESSION['item'][0]['name'] = 'Singapore - adelaide';
 $_SESSION['item'][0]['rank'] = 1;
-$_SESSION['item'][0]['caption'] = 'Singapore - Adelaide Cat II';
+$_SESSION['item'][0]['caption'] = 'Singapore - Adelaide Cat';
 $_SESSION['item'][0]['trivia'] = "<p>My name is Le Cornu and I live in Adelaide. My dad plays for the Adelaide Crows. He has a big mullet which I snuggle into when he is asleep.</p> <p style='color:silver;font-size:80%;font-style:italic'>Like me and we can watch the footie together. </p>";
 $_SESSION['item'][0]['theme'] = 'cats';
 $_SESSION['item'][0]['filename'] = 'data/images/cats/adelaide.jpg';
 $_SESSION['item'][0]['rating'] = 0;
 
-$_SESSION['item'][1]['name'] = 'Tokyo - canberra';
+$_SESSION['item'][1]['name'] = 'canberra';
 $_SESSION['item'][1]['rank'] = 2;
-$_SESSION['item'][1]['caption'] = 'Tokyo - Canberra Cat';
+$_SESSION['item'][1]['caption'] = 'Canberra Cat';
 $_SESSION['item'][1]['trivia'] = "<p>My name is Burley and my post office box is in Canberra. The Government appointed me into a senior position at the Human Rights Commission. </p> <p style='color:silver;font-size:80%;font-style:italic'>Like me and we can obsess over repealing section 18C together.</p>";
 $_SESSION['item'][1]['theme'] = 'cats';
 $_SESSION['item'][1]['filename'] = 'data/images/cats/canberra.jpg';
